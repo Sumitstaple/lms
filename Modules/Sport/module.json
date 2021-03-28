@@ -1,0 +1,13 @@
+{
+    "name": "Sport",
+    "alias": "sport",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Sport\\Providers\\SportServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
